@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+
+login: IvanP
+password: e794244c93
+
+title: "New post"
+description: "About cats"
+content: "Cats are beautiful animals"
